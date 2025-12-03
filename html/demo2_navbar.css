@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: serif;
+}
+
+.navbar {
+  background-color: purple;
+  padding: 15px;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+  display: inline-block;
+  font-size: 18px;
+}
+
+.navbar a:hover {
+  background-color: rgb(163, 15, 163);
+  border-radius: 1000px;
+}
